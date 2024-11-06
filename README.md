@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Hen. Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Pedro Henrique da Silva, tenho 19 anos, sou de Campinas SP. Concluí o ensino médio em 2022. Atualmente estou cursando Ciência da Computação na Unip. Curto demais a área da tecnologia e programação, pois cada dia podemos desenvolver e aprender algo novo no nosso dia-a-dia. Hoje estou como Dev. fullstack junior, mas pretendo me tornar Senior futuramente.
 
