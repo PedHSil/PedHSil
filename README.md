@@ -4,12 +4,10 @@
 
 <h2 align="left">Tenho 19 anos, sou natural de Campinas, SP, e conclui o ensino médio em 2022. Atualmente, sou estudante de Ciência da Computação na Universidade Paulista (UNIP). Tenho grande interesse pela área de tecnologia e programação, especialmente pela possibilidade de aprender continuamente e desenvolver soluções inovadoras que impactam o nosso dia a dia.</h2>
 
-<h2 align="left">Tenho 19 anos, sou natural de Campinas, SP, e conclui o ensino médio em 2022. Atualmente, sou estudante de Ciência da Computação na Universidade Paulista (UNIP). Tenho grande interesse pela área de tecnologia e programação, especialmente pela possibilidade de aprender continuamente e desenvolver soluções inovadoras que impactam o nosso dia a dia.</h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedHSil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedHSil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PedHSil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedHSil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
