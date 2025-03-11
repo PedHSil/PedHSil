@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<h2 align="left">Tenho 19 anos, sou natural de Campinas, SP, e conclui o ensino médio em 2022. Atualmente, sou estudante de Ciência da Computação na Universidade Paulista (UNIP). Tenho grande interesse pela área de tecnologia e programação, especialmente pela possibilidade de aprender continuamente e desenvolver soluções inovadoras que impactam o nosso dia a dia.</h2>
+<h2 align="left">Tenho 20 anos, sou natural de Campinas, SP, e conclui o ensino médio em 2022. Atualmente, sou estudante de Ciência da Computação na Universidade Paulista (UNIP). Tenho grande interesse pela área de tecnologia e programação, especialmente pela possibilidade de aprender continuamente e desenvolver soluções inovadoras que impactam o nosso dia a dia.</h2>
 
 ###
 
